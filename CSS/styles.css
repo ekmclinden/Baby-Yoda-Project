@@ -26,5 +26,14 @@
 }
 .yoda{
   float: left;
-
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+}
+.img2 {
+  float: right;
+  width: 40%;
+    border: 2px solid green;
+   
+   
 }
