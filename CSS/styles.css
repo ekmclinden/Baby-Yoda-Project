@@ -15,11 +15,12 @@
 }
 .my-class {
   float: right;
-  width:50%;
+  width:59%;
     margin: 12px;
     border: 2px solid green;
     padding: 4px;
-    background-color: rgb(104, 240, 215);
+    background-color: rgb(99, 250, 117);
+    text-align: center;
   }
 .my-class p {
   font-size: 30pt;
@@ -30,10 +31,9 @@
   border: 2px solid green;
   padding: 4px;
 }
-.img2 {
+.yoda2 {
   float: right;
-  width: 40%;
-    border: 2px solid green;
-   
-   
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
