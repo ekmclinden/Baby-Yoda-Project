@@ -7,3 +7,9 @@
   color: darkolivegreen;
   padding: 20px 40px;
   background-color: lightgreen;
+}
+.bold {
+  font-family: fantasy;
+  color: crimson;
+  font-size: 30px;
+}
