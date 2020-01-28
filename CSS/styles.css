@@ -14,8 +14,17 @@
   font-size: 30px;
 }
 .my-class {
+  float: right;
+  width:50%;
     margin: 12px;
     border: 2px solid green;
     padding: 4px;
+    background-color: rgb(104, 240, 215);
   }
+.my-class p {
+  font-size: 30pt;
+}
+.yoda{
+  float: left;
+
 }
